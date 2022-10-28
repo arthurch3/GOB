@@ -9,7 +9,7 @@ import { FBXLoader } from 'three/examples/jsm/loaders/FBXLoader';
 
 import Engine from './libs/engine';
 import audio from './libs/audio';
-import { Texture } from '../gobelins-threejs-master-perso/__common/libs/three.module';
+//import { Texture } from '../gobelins-threejs-master-perso/__common/libs/three.module';
 
 import fragmentShader from './basic.frag';
 import vertexShader from './basic.vert';
